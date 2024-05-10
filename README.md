@@ -1,2 +1,3 @@
 # demo-proj
-This is my first github repository
+This is my first github repository.
+Author- Nitish Tiwari
